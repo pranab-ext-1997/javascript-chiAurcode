@@ -14,3 +14,4 @@
 
 // Object
 console.table([typeof "pranab",typeof null,typeof undefined]);
+
