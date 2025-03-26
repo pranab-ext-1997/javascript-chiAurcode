@@ -30,3 +30,18 @@ const myFunction =function (){
     console.log("Hi, Pranab");
     
 }
+
+// *******************************************
+// Memory
+
+
+//Stack (Premitive), Heap(means original mean shallow copy ) (Non-Premetive)
+
+
+
+let myLaptopName = "HP Victus"
+
+let anoTherName = myLaptopName;
+
+anoTherName = "Pranab"
+console.log(myLaptopName,anoTherName);
